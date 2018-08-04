@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726027910151",
+    "firebase_url": "https://skillshare-1e083.firebaseio.com",
+    "project_id": "skillshare-1e083",
+    "storage_bucket": "skillshare-1e083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726027910151:android:0b54e7042e84cd79",
+        "android_client_info": {
+          "package_name": "com.google.a2developers.skillshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726027910151-rtvd1ca3ckrtdfti29a2t0dpjuqoc0g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.a2developers.skillshare",
+            "certificate_hash": "c6072a82e7ea8502f7ec8c2a325c3c3dc6720319"
+          }
+        },
+        {
+          "client_id": "726027910151-9a6sgb8n11ct5q8fd27uvcr2jsgptkpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwjL4ndtzOQFo0ngdbD4SKBBeoUtjsjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726027910151-9a6sgb8n11ct5q8fd27uvcr2jsgptkpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
