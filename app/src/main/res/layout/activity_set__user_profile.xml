@@ -94,12 +94,12 @@
             tools:ignore="MissingConstraints" />
 
         <TextView
-            android:id="@+id/textView3"
+            android:id="@+id/addavatartv"
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:text="Click to add avatar"
+            android:text="Click to add avatar."
             tools:layout_editor_absoluteX="207dp"
             tools:layout_editor_absoluteY="139dp"
             tools:ignore="MissingConstraints" />
